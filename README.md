@@ -1,6 +1,7 @@
 
-Unity-Project-Lab
-Study Progress
+Unity-Project-Lab Study Progress
+
+
     Creating an empty GameObject as a container for other GameObjects.
 
     Duplicating GameObjects.
