@@ -9,4 +9,8 @@ Study Progress
 
     Nesting GameObjects to multiple levels .
 
-    Using the Move and Rotate tools to transform a child GameObject.</code></pre>
+    Using the Move and Rotate tools to transform a child GameObject.
+    
+    Position the Main camera.
+    
+    Make the sphere solid
