@@ -14,3 +14,12 @@ Study Progress
     Position the Main camera.
     
     Make the sphere solid
+    
+    Import an image file.
+    
+    Create the Brick Material.
+    
+    Adding a Physic Material.
+    
+    Adjusting the Lighting in the scene.
+    
