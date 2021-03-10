@@ -24,3 +24,6 @@ Unity-Project-Lab Study Progress
     
     Adjusting the Lighting in the scene.
     
+    Import the materials from the Asset Store.
+    
+    Create a ball rolling "game"
